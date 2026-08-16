@@ -1,0 +1,6 @@
+fastapi>=0.141.1
+livekit-agents[deepgram,google,groq,silero,turn-detector]~=1.5
+livekit-murf>=0.1.1
+livekit-plugins-noise-cancellation~=0.2
+python-dotenv
+uvicorn>=0.52.2
